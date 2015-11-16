@@ -1,9 +1,5 @@
 ﻿# Octave/Matlab Tutorial Wiki
 
-标签（空格分隔）： machineLearning
-
----
-
 ##Basic Operations
 ```
 %% Change Octave prompt  
